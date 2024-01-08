@@ -46,6 +46,7 @@ Users should be able to:
 
 - React
 - Tailwind
+- Typescript
 - CSS custom properties
 - Vite
 - Mobile-first workflow
