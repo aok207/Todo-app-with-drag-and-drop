@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply m-0 p-0 box-border font-josefin transition-colors;
+}
+
+.active-filter {
+  @apply text-bright-blue;
+}
+
+.inactive-filter {
+  @apply text-dark-grayish-blue-light dark:text-very-dark-grayish-blue-light dark:md:hover:text-very-light-gray md:hover:text-very-dark-grayish-blue-light;
+}
