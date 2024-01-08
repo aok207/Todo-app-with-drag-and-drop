@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/aok207/Todo-app-with-drag-and-drop]([https://your-solution-url.com](https://github.com/aok207/Todo-app-with-drag-and-drop))
 - Live Site URL: [https://todo-app-frontend-mentor-deploy.vercel.app/](https://todo-app-frontend-mentor-deploy.vercel.app/)
 
 ## My process
